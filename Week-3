@@ -1,38 +1,38 @@
 
 ---------------WEEK# 3 CONTENTS------------------
 
-Ethereum Development Overview
+📌1--Ethereum Development Overview
 
-1--Architecture of a DAPP
-
-
-Swapping like a Unicorn
+📌Architecture of a DAPP
 
 
-Inspecting Blockchain
+📌Swapping like a Unicorn
 
 
-Smart Contract Developer
+📌Inspecting Blockchain
 
 
-Hot Contracts
-
-2--SOLIDITY Fundamentals
-
-WHAT IS SOLIDITY
+📌Smart Contract Developer
 
 
-First Smart contract in Solidity
+📌Hot Contracts
+
+📌2--SOLIDITY Fundamentals
+
+📌WHAT IS SOLIDITY
 
 
-Normal vs View Functions
+📌First Smart contract in Solidity
+
+
+📌Normal vs View Functions
 
 
 
-Pure vs Private Functions
+📌Pure vs Private Functions
 
 
-Deployment with Remix
+📌Deployment with Remix
 
 
 
