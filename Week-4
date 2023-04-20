@@ -3,20 +3,30 @@ WEEK-4 CONTENTS FOR BLOCKCHAIN TRACK
 
 SOLIDITY PROGRAMMING- 2
 
-1-- variables
+1-- Global Functions and  variables
 
-2--Qualifiers in Solidity
+2-- Bsic structure of Solidity
 
-3-- Address and Paybale address - Data Type in Solidity
+3--Qualifiers in Solidity
 
-4--Bytes and Enum Data Type 
+4-- Address and Paybale address - Data Type in Solidity
 
-5-- Arrays - Reference Data Type in Solidity
+5--Bytes and Enum Data Type 
 
-6-- Special Arrays
+6-- Arrays - Reference Data Type in Solidity
 
-7-- Struct Data type in Solidity
+7-- Special Arrays
 
-8-- Mapping 
+8-- Struct Data type in Solidity
 
-9--
+9-- Mapping 
+
+10-- ABI Encode and decode
+
+11-- Error handling Require, Assert and Revert
+
+12-- Function MOdifiers
+
+13--Control Structure
+
+14---- Operators in Solidity
