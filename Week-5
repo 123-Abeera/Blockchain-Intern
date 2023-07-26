@@ -1,1 +1,8 @@
-C
+
+                           ------------------TASK-----------------
+create Lottery contract allows players to enter a lottery game by sending 0.1 ether to the contract.
+The manager of the contract can then pick a winner at random and transfer the entire balance of the contract to that winner. 
+The contract requires a minimum of 3 players to play the lottery.
+The contract also keeps track of the players who have entered the lottery and 
+allows anyone to view the current list of players.
+
